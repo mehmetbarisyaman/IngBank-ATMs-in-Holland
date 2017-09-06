@@ -1,0 +1,5 @@
+com/baris/web/controller/Bank.class
+com/baris/web/controller/Address.class
+com/baris/web/controller/GeoLocation.class
+com/baris/web/controller/HelloController.class
+com/baris/web/controller/Service.class
